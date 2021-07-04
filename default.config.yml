@@ -57,6 +57,7 @@ homebrew_installed_packages:
   - minikube
   - nmap
   - pyenv
+  - iterm2
 
 homebrew_taps:
   - homebrew/core
