@@ -57,7 +57,6 @@ homebrew_installed_packages:
   - minikube
   - nmap
   - pyenv
-  - speedtest
 
 homebrew_taps:
   - homebrew/core
