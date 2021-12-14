@@ -72,7 +72,6 @@ homebrew_cask_apps:
   - handbrake
   - vagrant
   - spotify
-  - virtualbox
   - deluge
 
 # See `geerlingguy.mas` role documentation for usage instructions.
